@@ -1,2 +1,14 @@
-# Legal-LLM
-AI based assitant built using a Large Language Model (LLM) to provide preliminary legal advice. The system processes user queries related to legal domains (e.g., contracts, consumer rights, cyber law,) and returns context-aware responses based on legal knowledge and examples. 
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

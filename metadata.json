@@ -1,0 +1,7 @@
+{
+  "name": "Legal LLM",
+  "description": "An AI-powered virtual legal advisor for Indian citizens, providing real-time answers to legal and constitutional queries. Features include chat-based advice, document analysis, and updates on Indian law.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
